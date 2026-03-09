@@ -1,50 +1,38 @@
 # StyleCast Closet AI
 
-Backend recommendation system for generating outfit suggestions based on clothing items.
+Backend recommendation system for an AI-powered outfit builder.
+
+## Overview
+
+This project implements a modular FastAPI backend for a fashion outfit recommendation system. It allows users to:
+
+- browse available products
+- build outfits by selecting clothing items
+- identify missing outfit categories
+- receive recommendations to complete an outfit
+- receive similar product recommendations
+
+The system is designed as a backend-focused assignment, with an emphasis on:
+
+- API design
+- recommendation logic
+- modular architecture
+- scalability considerations
 
 ## Tech Stack
+
 - Python
 - FastAPI
 - Uvicorn
-- JSON dataset
-
-## Run Locally
-
-pip install -r requirements.txt
-uvicorn app.main:app --reload
-
-Open:
-http://127.0.0.1:8000/docs
-
-# StyleCast Closet AI
-
-A backend system for an AI-powered outfit builder that allows users to:
-- select products
-- build outfits
-- receive outfit completion recommendations
-- receive similar product suggestions
-
-## Features
-
-- Product listing API
-- Outfit builder API
-- Missing category detection
-- Outfit completion recommendations
-- Similar product recommendations
-- Swagger/OpenAPI documentation via FastAPI
-
-## Tech Stack
-
-- Python
-- FastAPI
 - Pydantic
 - JSON dataset
 
 ## Project Structure
 
 ```text
-stylecast-ai/
+stylecast-closet-ai/
 ├── app/
+│   ├── __init__.py
 │   ├── main.py
 │   ├── routes.py
 │   ├── recommender.py
