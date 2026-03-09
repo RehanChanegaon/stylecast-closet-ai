@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": "top_001",
+    "brand": "CPGN STUDIO",
+    "name": "Oversized Cotton Tee",
+    "category": "top",
+    "price": 32,
+    "color": "white",
+    "style_tags": ["casual", "streetwear"],
+    "image_url": "https://example.com/top_001.jpg"
+  },
+  {
+    "product_id": "bottom_001",
+    "brand": "Levis",
+    "name": "Straight Blue Jeans",
+    "category": "bottom",
+    "price": 58,
+    "color": "blue",
+    "style_tags": ["casual", "denim"],
+    "image_url": "https://example.com/bottom_001.jpg"
+  },
+  {
+    "product_id": "shoes_001",
+    "brand": "Adidas",
+    "name": "Classic Sneakers",
+    "category": "shoes",
+    "price": 75,
+    "color": "white",
+    "style_tags": ["casual", "streetwear"],
+    "image_url": "https://example.com/shoes_001.jpg"
+  },
+  {
+    "product_id": "outerwear_001",
+    "brand": "Uniqlo",
+    "name": "Minimal Bomber Jacket",
+    "category": "outerwear",
+    "price": 89,
+    "color": "black",
+    "style_tags": ["casual", "streetwear"],
+    "image_url": "https://example.com/outerwear_001.jpg"
+  },
+  {
+    "product_id": "accessories_001",
+    "brand": "Fossil",
+    "name": "Leather Crossbody Bag",
+    "category": "accessories",
+    "price": 65,
+    "color": "beige",
+    "style_tags": ["casual", "minimal"],
+    "image_url": "https://example.com/accessories_001.jpg"
+  },
+  {
+    "product_id": "top_002",
+    "brand": "Zara",
+    "name": "Relaxed Fit Black Shirt",
+    "category": "top",
+    "price": 40,
+    "color": "black",
+    "style_tags": ["smart-casual", "minimal"],
+    "image_url": "https://example.com/top_002.jpg"
+  },
+  {
+    "product_id": "bottom_002",
+    "brand": "H&M",
+    "name": "Tailored Beige Trousers",
+    "category": "bottom",
+    "price": 49,
+    "color": "beige",
+    "style_tags": ["smart-casual", "minimal"],
+    "image_url": "https://example.com/bottom_002.jpg"
+  },
+  {
+    "product_id": "shoes_002",
+    "brand": "Nike",
+    "name": "Black Lifestyle Sneakers",
+    "category": "shoes",
+    "price": 85,
+    "color": "black",
+    "style_tags": ["casual", "streetwear"],
+    "image_url": "https://example.com/shoes_002.jpg"
+  }
+]
